@@ -15,7 +15,3 @@ A 3-column data frame form the values in \code{x}.
 \description{
 Splits a UCSC position into three valid values
 }
-\examples{
-split_position
-
-}
