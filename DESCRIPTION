@@ -1,4 +1,4 @@
-Package: captr-c
+Package: captrc
 Type: Package
 Title: Operations for Capture-C files in R
 Version: 0.1.0
